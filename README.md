@@ -1,4 +1,3 @@
 abap_bdc_geneartor
 ==================
-
-Программа генерации подпрограммы вызова BDC (батч-инпут)  *&amp; по записи в транзакции SHDB
+Program can generate abap FORM with macro from SHDB transaction (BDC (batch-input)).
